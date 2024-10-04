@@ -4,15 +4,15 @@ layout: homepage
 
 ## About Me
 
-I am a D.Phil. candidate in Computer Science at the [University of Oxford](https://www.ox.ac.uk), co-supervised by Profs. [Niki Trigoni](https://www.cs.ox.ac.uk/people/niki.trigoni/) and [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). My study is generously supported by the Taiwanese Government Scholarship to Study Abroad, ACE-OPS grant, and St. Catherine's College Overseas Scholarship. 
-I also had the privilege of collaborating closely with [Matheus Gadelha](http://mgadelha.me/), [Thibault Groueix](https://imagine.enpc.fr/~groueixt/), [Matthew Fisher](https://techmatt.github.io/), [Soren Pirk](https://storage.googleapis.com/pirk.io/index.html), and [Radomir Mech](https://research.adobe.com/person/radomir-mech/) during my internships at Adobe Research, and [Varun Jampani](https://varunjampani.github.io/), [Prafull Sharma](https://prafullsharma.net/), and [Mark Boss](https://markboss.me/) during my internship at Stability AI. Prior to my D.Phil., I worked as a research assistant in Computer Vision Lab, Academia Sinica, supervised by Profs. [Tyng-Luh Liu](https://www.iis.sinica.edu.tw/pages/liutyng/) and [Hwann-Tzong Chen](https://htchen.github.io). 
+<!-- I am a D.Phil. candidate in Computer Science at the [University of Oxford](https://www.ox.ac.uk), co-supervised by Profs. [Niki Trigoni](https://www.cs.ox.ac.uk/people/niki.trigoni/) and [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). My study is generously supported by the Taiwanese Government Scholarship to Study Abroad, ACE-OPS grant, and St. Catherine's College Overseas Scholarship. 
+I also had the privilege of collaborating closely with [Matheus Gadelha](http://mgadelha.me/), [Thibault Groueix](https://imagine.enpc.fr/~groueixt/), [Matthew Fisher](https://techmatt.github.io/), [Soren Pirk](https://storage.googleapis.com/pirk.io/index.html), and [Radomir Mech](https://research.adobe.com/person/radomir-mech/) during my internships at Adobe Research, and [Varun Jampani](https://varunjampani.github.io/), [Prafull Sharma](https://prafullsharma.net/), and [Mark Boss](https://markboss.me/) during my internship at Stability AI. Prior to my D.Phil., I worked as a research assistant in Computer Vision Lab, Academia Sinica, supervised by Profs. [Tyng-Luh Liu](https://www.iis.sinica.edu.tw/pages/liutyng/) and [Hwann-Tzong Chen](https://htchen.github.io).  -->
 
-I plan on submitting my thesis in the coming months and will soon be entering the job market. Feel free to contact me for any research opportunities!
+<!-- I plan on submitting my thesis in the coming months and will soon be entering the job market. Feel free to contact me for any research opportunities! -->
 
-## Research Interests
+<!-- ## Research Interests -->
 
-My main research interest lies on bridging 2D and 3D Understanding. My D.Phil. work mainly builds on extracting 3D information in the latent space from large image collections to enhance the capabilities of models for generation and reconstruction. So far, I have worked on extracting geometry (3DMiner), illumination and deformable shape changes (Continuous 3D Words), and more recently materials (ZeST).
-
+<!-- My main research interest lies on bridging 2D and 3D Understanding. My D.Phil. work mainly builds on extracting 3D information in the latent space from large image collections to enhance the capabilities of models for generation and reconstruction. So far, I have worked on extracting geometry (3DMiner), illumination and deformable shape changes (Continuous 3D Words), and more recently materials (ZeST). -->
+<!-- 
 On the side, I also enjoy working with vision applications that utilize various modalities, such as point clouds and thermal images.
 
 ## News
@@ -32,4 +32,4 @@ On the side, I also enjoy working with vision applications that utilize various 
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/services.md %} -->
